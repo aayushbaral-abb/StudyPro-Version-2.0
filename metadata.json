@@ -1,0 +1,8 @@
+{
+  "name": "StudyPro - Professional Education Platform",
+  "description": "A high-performance, elegant authentication suite for StudyPro, featuring restricted Gmail signup, email verification workflows, and secure password recovery integrated with Supabase.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
